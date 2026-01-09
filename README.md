@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently Studying and doing internship in a company and I have done BCA 
+👋 Darshil here!
+💻 Full-Stack Web Developer | 📱 Android (Kotlin)
+🚀 Learning, building, and improving every day.
 
 
 ## 🌐 Socials:
